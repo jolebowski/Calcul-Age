@@ -4,7 +4,7 @@
     <title>Calculate Age</title>
 </head>
 <body>
-    <h3>Calculer l age</h3>
+    <h3>Calculer l agedsdsdssdsss</h3>
     <form name="frm" method="post" action="">
         <?php
         for ($i = 1; $i <= 31; $i++)
